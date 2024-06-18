@@ -1,9 +1,10 @@
 *{
     margin: 0;
     padding: 0;
+}
+body{
     background: rgb(241, 228, 230);
 }
-
 .comic{
     display: flex;
     justify-content: space-around;
