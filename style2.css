@@ -1,4 +1,8 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    background: rgb(241, 228, 230);
+}
 
 .comic{
     display: flex;
